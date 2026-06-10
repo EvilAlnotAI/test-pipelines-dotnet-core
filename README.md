@@ -1,4 +1,4 @@
-# Sample ASP.NET Core application for Azure Pipelines docs, changes from FEATURE BRANCH
+# Sample ASP.NET Core application for Azure Pipelines docs, Changes from MASTER Branch
 Al not AI
 Hands on Lab update -aad4a
 This is the second edit - Whoo Step into a Slim Jim
