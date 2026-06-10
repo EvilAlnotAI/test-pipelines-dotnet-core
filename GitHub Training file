@@ -1,0 +1,25 @@
+Repository (Repo) – A container for your project’s files, documentation, and revision history. It can be public or private and supports collaboration through Git.
+
+Branch – A parallel version of the repository used to develop features or fix bugs without affecting the main branch. Common types include main, feature branch, and topic branch.
+
+Commit – A snapshot of changes in the repository, identified by a unique SHA (commit ID). Each commit includes a commit message describing the change.
+
+Clone – A local copy of a remote repository, enabling offline work while maintaining a connection for syncing changes.
+
+Pull, Push, Fetch –
+
+Pull: Fetches and merges changes from remote to local.
+
+Push: Sends local commits to the remote repository.
+
+Fetch: Downloads changes without merging.
+
+Pull Request (PR) – A request to merge changes from one branch into another. PRs include discussion threads, code reviews, and status checks before merging.
+
+Merge & Merge Conflict –
+
+Merge: Combines changes from one branch into another.
+
+Merge Conflict: Occurs when changes in two branches affect the same lines of code and must be resolved manually.
+
+Fork – A personal copy of another user’s repository, allowing independent changes while keeping a link to the original (upstream) repo.
